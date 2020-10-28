@@ -12,7 +12,7 @@ export default function FirstPost() {
       <Head>
         <title>Dus omdat ik dat nog vele (200) jaren met je wil lachen met allerlei avonturen (zelfs in Fryslan). Heb ik een vraag</title>
       </Head>
-      <h1>Dus omdat ik dat nog vele (200) jaren met je wil lachen met allerlei avonturen. Heb ik een vraag</h1>
+      <h1>Dus omdat ik dat nog vele (200) jaren met je wil lachen met allerlei avonturen (zie foto). Heb ik een vraag</h1>
       <h2>
         <Link href="/posts/fifth-step">
      <img
