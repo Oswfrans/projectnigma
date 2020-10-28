@@ -16,7 +16,7 @@ export default function FirstPost() {
       <h2>
         {/* <Link href="/posts/fifth-step"> */}
      <img
-           src="/images/ppmask.jpeg"
+           src="/images/cheers2.jpeg"
            className={`${styles.headerImage} `}
          />
          {/* </Link>> */}
